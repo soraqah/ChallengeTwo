@@ -1,0 +1,29 @@
+body{
+  background-image: url('assets/background.jpg');
+  background-position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+}
+.digital-clock{
+ 
+  
+
+  
+
+
+}
+.oclock{
+  font-size: 6rem;
+  font-weight: bold;
+  color: aliceblue;
+  font-family: monospace;
+  text-shadow: 3px 3px 5px black;
+  
+
+
+}
